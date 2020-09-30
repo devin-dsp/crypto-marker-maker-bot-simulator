@@ -3,5 +3,5 @@
 > Start bot simulator then wait for a few minutes until it will stop automatically
 
 ```shell script
-npm start
+npm i && npm start
 ```
